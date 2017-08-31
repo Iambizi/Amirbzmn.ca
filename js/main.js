@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   // $(document).ready(()=> {
   //   $("#fineprint").hide();
   // $("span").hover(()=>{
@@ -31,3 +32,14 @@
   // //           }, 'xml');
   // //       });
   // });
+=======
+$(document).ready(()=> {
+    $("#fineprint").hide();
+  $("span").hover(()=>{
+    $("#fineprint").fadeIn()}
+    ,
+    ()=>{
+    $("#fineprint").fadeOut()}
+  );
+ });   
+>>>>>>> fbe8d552704495fbc1da921b23e2e543f14b1ce7
