@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-  // $(document).ready(()=> {
-  //   $("#fineprint").hide();
-  // $("span").hover(()=>{
-  //   $("#fineprint").fadeIn()}
-  //   ,
-  //   ()=>{
-  //   $("#fineprint").fadeOut()}
-  // );
+  
   // // jQuery('img.svg').each(function(){
   // //           var $img = jQuery(this);
   // //           var imgID = $img.attr('id');
@@ -32,14 +24,4 @@
   // //           }, 'xml');
   // //       });
   // });
-=======
-$(document).ready(()=> {
-    $("#fineprint").hide();
-  $("span").hover(()=>{
-    $("#fineprint").fadeIn()}
-    ,
-    ()=>{
-    $("#fineprint").fadeOut()}
-  );
- });   
->>>>>>> fbe8d552704495fbc1da921b23e2e543f14b1ce7
+
