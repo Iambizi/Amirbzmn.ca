@@ -18,21 +18,24 @@
 .screenshot1,
 .screenshot2,
 .screenshot3,
-.screenshot4 {
+.screenshot4,
+.screenshot5 {
 	margin-bottom: 5px;
 }
 
 .screenshot1:hover,
 .screenshot2:hover,
 .screenshot3:hover,
-.screenshot4:hover {
+.screenshot4:hover,
+.screenshot5:hover {
 	cursor: pointer;
 }
 
 .screenshot1,
 .screenshot2,
 .screenshot3,
-.screenshot4 {
+.screenshot4,
+.screenshot5 {
 	position: relative;
 	width: 50%;
 }
@@ -61,14 +64,16 @@
 .screenshot1:hover .image,
 .screenshot2:hover .image,
 .screenshot3:hover .image,
-.screenshot4:hover .image {
+.screenshot4:hover .image,
+.screenshot5:hover .image {
 	opacity: 0.5;
 }
 
 .screenshot1:hover .middle,
 .screenshot2:hover .middle,
 .screenshot3:hover .middle,
-.screenshot4:hover .middle {
+.screenshot4:hover .middle,
+.screenshot5:hover .middle {
 	opacity: 1;
 }
 
@@ -145,12 +150,7 @@
 	}
 }
 
-.navbar-toggle,
-.icon-bar {
-	border: 1px solid #fff;
-	background: linear-gradient( #2e6ea5, #265a88);
-	opacity: 0.95;
-}
+
 
 
 
