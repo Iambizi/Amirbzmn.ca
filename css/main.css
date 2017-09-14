@@ -19,7 +19,8 @@
 .screenshot2,
 .screenshot3,
 .screenshot4,
-.screenshot5 {
+.screenshot5,
+.screenshot6 {
 	margin-bottom: 5px;
 }
 
@@ -27,7 +28,8 @@
 .screenshot2:hover,
 .screenshot3:hover,
 .screenshot4:hover,
-.screenshot5:hover {
+.screenshot5:hover,
+.screenshot6:hover {
 	cursor: pointer;
 }
 
@@ -35,7 +37,8 @@
 .screenshot2,
 .screenshot3,
 .screenshot4,
-.screenshot5 {
+.screenshot5,
+.screenshot6 {
 	position: relative;
 	width: 50%;
 }
@@ -65,7 +68,8 @@
 .screenshot2:hover .image,
 .screenshot3:hover .image,
 .screenshot4:hover .image,
-.screenshot5:hover .image {
+.screenshot5:hover .image,
+.screenshot6:hover .image {
 	opacity: 0.5;
 }
 
@@ -73,7 +77,8 @@
 .screenshot2:hover .middle,
 .screenshot3:hover .middle,
 .screenshot4:hover .middle,
-.screenshot5:hover .middle {
+.screenshot5:hover .middle,
+.screenshot6:hover .middle {
 	opacity: 1;
 }
 
